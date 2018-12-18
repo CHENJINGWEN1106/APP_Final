@@ -37,7 +37,11 @@
 <img src="images/特色功能 (2).jpg"  alt="特色功能" />
 
 # 重点功能使用流程图：
-（此处应该有一张图）
+<img src="images/注册.png"  alt="注册登录流程图" />
+<img src="images/演讲室.png"  alt="核心功能——演讲室流程图" />
+<img src="images/演讲课堂.png"  alt="核心功能——演讲课堂流程图" />
+<img src="images/pk挑战.png"  alt="核心功能——pk挑战流程图" />
+<img src="images/个人中心.png"  alt="核心功能——个人中心流程图" />
 
 # 产品核心：
 提供一个平台给用户练习演讲
